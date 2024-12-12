@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+  }
+  
+  .container {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  h1 {
+  
+    font-weight: bold;
+    font-size:80px !important;
+    font-family: Impact;
+    color:black !important;
+   
+  }
+  
+  #quote {
+    font-size: 35px;
+    margin-block-start: 1em;
+    margin-block-end:1em ;
+    text-align: center;
+  }
+ 
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: blue;
+    border: none;
+  width: 250px;
+    cursor: pointer;
+    height: 80px;
+    border-width: 2px;
+    border-style: outset;
+    border-image: initial;
+    border-color: black;
+  }
+  
+  button:hover {
+    background-color: green;
+  }
+  .preqotes{
+    font-size: 35px;
+    margin-block-start: 1em;
+    margin-block-end:1em ; 
+    text-align: center;
+  }
+  #authorOutput{
+    font-size: 35px;
+    margin-block-start: 1em;
+    margin-block-end:1em ;
+    text-align: center;
+  }
